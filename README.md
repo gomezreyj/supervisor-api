@@ -20,6 +20,7 @@ Option 1 - Docker -
     "phoneNumber":"1212121",
     "supervisor":"any"
 }
+9. Do not forget to view the console output
 ```
 Option 2 - Plane JVM Command - Clone the repository and go to the directory supervisors-api
 ```bash
@@ -29,5 +30,6 @@ Option 2 - Plane JVM Command - Clone the repository and go to the directory supe
 4. In any machine that has JVM with JDK 1.8
 5. Under the directory supervisors-api it will appear a JAR file with name: supervisors-api-0.0.1-SNAPSHOT.jar
 6. Run the application using: java -jar supervisors-api-0.0.1-SNAPSHOT.jar
+7. Do not forget to view the console output
 ```
 
