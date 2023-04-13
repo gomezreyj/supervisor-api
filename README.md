@@ -2,7 +2,7 @@
 This API expose endpoints to read (GET) a list of supervisor and submit(POST) a new supervisor info. 
  
 ## How to Run It
-Option 1 - Docker - 
+Option 1 - Docker
 ```bash
 1. Clone the repository https://github.com/gomezreyj/supervisor-api.git  ( master branch )
 2. Checkout the master branch: git checkout master 
